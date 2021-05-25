@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1524895817 source:d:\tubes std\otak.cpp
+	"otak.h"
+	"admin.h"
+	"juri.h"
+
+1524901917 d:\tubes std\otak.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+
+1524896886 source:d:\tubes std\admin.cpp
+	"otak.h"
+	"admin.h"
+
+1524887505 d:\tubes std\admin.h
+	"otak.h"
+
+1524903420 source:d:\tubes std\main.cpp
+	<iostream>
+	"otak.h"
+	"admin.h"
+	"juri.h"
+
+1524895257 source:d:\tubes std\juri.cpp
+	"juri.h"
+	"otak.h"
+
+1524878959 d:\tubes std\juri.h
+	"otak.h"
+	"peserta.h"
+	"admin.h"
+
+1523511372 d:\tubes std\peserta.h
+	"otak.h"
+
